@@ -1,0 +1,395 @@
+/* membership page */
+
+.membership-table h3{
+    font-size: 16px;
+    margin: 3px 0px 0px;
+}
+
+.membership-table{
+    width: 100%;
+    margin: 63px 0px 10px;
+    color: #58636e;
+}
+.membership-table .btn {
+    padding: 7px 10px;
+    font-size: 15px;
+}
+
+.membership-table .btn-small {
+    padding: 4px 8px;
+    font-size: 12px;
+}
+
+.membership-table, .membership-table td
+{
+border: 1px solid #ebebeb;
+text-align: center;
+padding: 10px 10px
+}
+
+.membership-table th:nth-child(1){
+    border-top: 1px solid #fff !important;
+    border-left: 1px solid #fff !important;
+    border-right: 1px solid #bbb !important;
+    border-bottom: 1px solid #ebebeb !important;
+    background-color: none !important;
+ }
+
+
+.membership-table td{
+    background-color:#fafafa;
+    box-shadow: 0px 1px 0px white inset;
+    width: 13.5%;
+    height: 23px;
+}
+
+.membership-table td:nth-child(1){
+background-color: #FFFFFF!important;
+border: none;
+text-align: left;
+width: 16%;
+font-size: 12px;
+}
+
+.membership-table td:nth-child(5){
+background-color: #FFFFFF!important;
+width: 15.6%;
+}
+.membership-table tr.separator td{
+background-color: #FFFFFF!important;
+box-shadow: none;
+}
+.membership-table tr:nth-child(2) td{
+border-bottom: none !important;
+box-shadow: none;
+position: relative;
+}
+
+.membership-table tr:nth-child(3) td{
+border-top: none !important;
+ box-shadow: 0px 1px 0px white;
+ }
+
+ .membership-table tr:nth-child(3) td{
+     box-shadow: 0px 1px 0px white;
+ }
+
+.plan-header{
+    padding: 20px 0;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+
+.plan-header-free{
+    background-color: #ebebeb;
+    color: #5c6468;
+    border: 1px solid #bbb;
+
+}
+.plan-header-blue{
+    background-color: #77bfdb;
+    border: solid 1px #1d89bf;
+}
+.plan-header-standard{
+    background-color: #ff9317;
+    border: solid 1px #f36e21;
+    padding-top: 20px;
+}
+.standard-head{
+    background-color: #ff9c00;
+    border: solid 1px #cf7300 ;
+    position: absolute;
+    top:-33px;
+    left: -1px;
+    width: 125px;
+    border-bottom: none;
+}
+.plan-header h2{
+    font-size: 22px;
+    font-weight: 400;
+}
+.plan-header p{
+    font-size: 47px;
+    margin: 5px 0px 0px;
+  }
+.plan-header sup{
+    font-size: 21px;
+}
+.plan-header span{
+    font-size: 16px;
+}
+.plan-header aside{
+    font-size: 12px;
+    opacity: 0.6;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    -moz-opacity: 0.6;
+  -khtml-opacity: 0.6;
+}
+
+.membership-header {
+ margin-bottom: 30px;
+}
+
+.free-trial-bubble{
+    background-color:#dfe6c5;
+    color: #779b00;
+    position: absolute;
+    padding: 15px 15px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    left:-140px;
+    top:-110px;
+    z-index: 99;
+    width: 300%;
+ }
+
+ .free-trial-bubble-for-offer{
+    font-family: 'museo_sans_rounded', arial, sans-serif;
+    background-color:#dfe6c5;
+    color: #779b00;
+    position: absolute;
+    padding: 5px 15px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    left:30px;
+    top:-150px;
+    z-index: 99;
+ }
+
+.free-trial-bubble:before{
+    border: solid;
+    border-color: #dfe6c5 transparent;
+    border-width:20px 20px 0px 20px;
+    bottom: -20px;
+    content: "";
+    left: 43%;
+    position: absolute;
+    z-index: 99;
+}
+
+.recommended-plan-ribbon{
+    font-family: 'museo_sans_rounded', arial, sans-serif;
+    background-color:#dc3b5d;
+    color: #FFFFFF;
+    position: absolute;
+    padding: 3px 15px;
+    font-size: 12px !important;
+    font-weight: 500;
+    left:-6px;
+    top:-27px;
+    z-index: 99;
+    width: 108px;
+    text-align: center;
+    -webkit-box-shadow: 0 -1px #c2284c inset;
+    -moz-box-shadow: 0 -1px #c2284c inset;
+    box-shadow: 0 -1px #c2284c inset;
+    text-shadow: 0 -1px #c2284c;
+    -webkit-text-shadow: 0 -1px #c2284c;
+    -moz-text-shadow: 0 -1px #c2284c;
+}
+
+.recommended-plan-ribbon:before{
+    border: solid;
+    border-color: #c2284c transparent;
+    border-width: 6px 0px 0px 6px;
+    bottom: -5px;
+    content: "";
+    left:0%;
+    position: absolute;
+    z-index: 90;
+}
+.recommended-plan-ribbon:after{
+    border: solid;
+    border-color: #c2284c transparent;
+    border-width: 6px 6px 0px 0px;
+    bottom: -5px;
+    content: "";
+    right:0%;
+    position: absolute;
+    z-index: 90;
+}
+
+
+.header-standard-inner{
+    position: relative;
+}
+
+.header-standard-inner:before{
+    border: solid;
+    border-color: #65a3ba transparent;
+    border-width: 130px 0px 0px 10px;
+    top:-21px;
+    content: "";
+    left:-11px;
+    position: absolute;
+    z-index: 90;
+    -moz-transform: scale(.9999);
+ }
+.header-standard-inner:after{
+    border: solid;
+    border-color: #65a3ba transparent;
+    border-width: 130px 10px 0px 0px;
+    top:-21px;
+    content: "";
+    right:-11px;
+    position: absolute;
+    z-index: 90;
+    -moz-transform: scale(.9999);
+
+ }
+
+.current-plan{
+    background-color: #e2e2e2;
+    color: #51585a;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    font-size: 11px;
+    position: relative;
+    line-height: 20px;
+    width: auto;
+    text-align: center;
+    padding: 7px 10px;
+ }
+.current-plan p{
+    display: inline-block;
+    font-weight: 500;
+    line-height: normal;
+    margin: 4px 0;
+    font-size: 15px;
+}
+
+.current-plan .with-date{
+    padding-top: 2px;
+}
+
+
+.icomoon-green-tick{
+    font-size: 15px;
+    color: #64ab45;
+}
+
+.icomoon-gray-cross{
+    font-size: 14px;
+    color: #cbccce;
+    background-image: none !important;
+}
+
+.feature-list{
+    border-bottom: 1px dotted #b3bdc7;
+    cursor: pointer;
+}
+
+#box-no-trial.plan25{
+    position: relative;
+}
+
+.purchase-now{
+    position: absolute;
+    left: -9px;
+    font-size: 12px;
+    text-align: center;
+    width: 150px;
+}
+
+.plan-header-smaller p{
+    font-size: 25px;
+}
+
+/* can remove this once combined with James' branch */
+
+/*@font-face {
+    font-family: 'icomoon';
+    src:url('/static/css/skin/fonts/icomoon.eot?v=de51b7fdb1fb346470f069d0c6e27fdc&amp;m=2');
+    src:url('/static/css/skin/fonts/icomoon.eot?#iefix&amp;v=de51b7fdb1fb346470f069d0c6e27fdc&amp;m=2') format('embedded-opentype'),
+        url('/static/css/skin/fonts/icomoon.woff?v=9274824159bd1348ae26224c4ca5046b&amp;m=2') format('woff'),
+        url('/static/css/skin/fonts/icomoon.ttf?v=3918ccc976880df07e49cd9e1d74cb1f&amp;m=2') format('truetype'),
+        url('/static/css/skin/fonts/icomoon.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+    font-family: 'icomoon';
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-search, .icon-cog, .icon-close, .icon-chevron, .icon-trophy, .icon-tick, .icon-play, .icon-next, .icon-last, .icon-first, .icon-prev {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.icon-search:before {
+    content: "\e000";
+}
+.icon-cog:before {
+    content: "\e002";
+}
+.icon-close:before {
+    content: "\e003";
+}
+.icon-chevron:before {
+    content: "\e005";
+}
+.icon-trophy:before {
+    content: "\e004";
+}
+.icon-tick:before {
+    content: "\e006";
+}
+.icon-play:before {
+    content: "\e001";
+}
+.icon-next:before {
+    content: "\e007";
+}
+.icon-last:before {
+    content: "\e008";
+}
+.icon-first:before {
+    content: "\e009";
+}
+.icon-prev:before {
+    content: "\e00a";
+}
+
+#btn-no-trial.plan20, #btn-no-trial.plan25, .ns_pad-10, .btn-continue-plan {
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.btn-answer {
+    padding: 4px !important;
+    margin: 1px;
+}
+.renewal_notification {
+    margin: 50px 20px 20px 20px;
+    text-align: center;
+}
+.renewal_notification .cancel_renewal_error {
+    color: #f00;
+}

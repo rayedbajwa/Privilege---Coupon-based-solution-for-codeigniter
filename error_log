@@ -1,0 +1,1053 @@
+[26-Feb-2014 21:48:35 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'application//libraries/REST_Controller.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/privileg/public_html/prev/application/controllers/usermain.php on line 2
+[26-Feb-2014 21:50:13 Europe/London] PHP Fatal error:  Call to a member function contents() on a non-object in /home/privileg/public_html/prev/application/views/cart.php on line 13
+[26-Feb-2014 21:50:15 Europe/London] PHP Fatal error:  Call to a member function contents() on a non-object in /home/privileg/public_html/prev/application/views/cart.php on line 13
+[26-Feb-2014 21:50:16 Europe/London] PHP Fatal error:  Call to a member function contents() on a non-object in /home/privileg/public_html/prev/application/views/cart.php on line 13
+[26-Feb-2014 22:05:44 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:05:48 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:05:50 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 23
+[26-Feb-2014 22:05:54 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:06:10 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:06:20 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:33:49] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:33:52] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:34:00] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:36:13 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:36:16 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:36:21 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:36:23 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:36:29 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:36:33 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:36:36 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:36:48 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:36:51 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 23
+[26-Feb-2014 22:36:56 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:37:10 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:38:39 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:38:50 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:38:59 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 23
+[26-Feb-2014 22:42:37 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:42:40 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 23
+[26-Feb-2014 22:42:42 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:42:44 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:47:37 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:47:43 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:47:45 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 23
+[26-Feb-2014 22:48:28 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:48:30 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:48:32 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 23
+[26-Feb-2014 22:48:34 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 7
+[26-Feb-2014 22:48:42 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:48:43 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[26-Feb-2014 22:49:44 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 7
+[27-Feb-2014 17:56:19 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 13
+[27-Feb-2014 18:07:27 Europe/London] PHP Fatal error:  Call to a member function filename() on a non-object in /home/privileg/public_html/prev/application/controllers/upload.php on line 20
+[27-Feb-2014 18:07:49 Europe/London] PHP Fatal error:  Call to a member function filename() on a non-object in /home/privileg/public_html/prev/application/controllers/upload.php on line 20
+[27-Feb-2014 18:16:00 Europe/London] PHP Fatal error:  Call to a member function resize() on a non-object in /home/privileg/public_html/prev/application/controllers/upload.php on line 22
+[27-Feb-2014 18:23:03 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 23
+[27-Feb-2014 18:23:12 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 23
+[27-Feb-2014 18:23:38 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 23
+[27-Feb-2014 18:24:01 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 23
+[27-Feb-2014 18:24:41 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 23
+[27-Feb-2014 18:59:24 Europe/London] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privileg/public_html/prev/application/controllers/upload.php on line 29
+[27-Feb-2014 19:00:01 Europe/London] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/privileg/public_html/prev/application/controllers/upload.php on line 29
+[01-Mar-2014 10:13:23 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 10:13:26 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 10:13:57 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 10:15:14 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/session.php on line 25
+[01-Mar-2014 13:44:55 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:45:10 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:45:15 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/session.php on line 25
+[01-Mar-2014 13:45:22 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:46:37 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:46:40 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:46:58 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:52:20 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:52:24 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:54:55 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:54:56 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/libraries/Session.php on line 216
+[01-Mar-2014 13:55:27 Europe/London] PHP Fatal error:  Call to undefined method Session::db_record() in /home/privileg/public_html/prev/application/controllers/session.php on line 15
+[01-Mar-2014 13:57:54 Europe/London] PHP Fatal error:  Call to undefined method Session::db_record() in /home/privileg/public_html/prev/application/controllers/session.php on line 15
+[02-Mar-2014 14:58:53 Europe/London] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/privileg/public_html/prev/application/controllers/signup.php on line 10
+[03-Mar-2014 02:20:45 Europe/London] PHP Fatal error:  Call to undefined function var_char() in /home/privileg/public_html/prev/application/controllers/upload.php on line 25
+[03-Mar-2014 02:59:17 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/controllers/upload.php on line 30
+[03-Mar-2014 02:59:23 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/controllers/upload.php on line 30
+[03-Mar-2014 03:00:00 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/controllers/upload.php on line 30
+[03-Mar-2014 03:03:13 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/controllers/upload.php on line 30
+[03-Mar-2014 03:15:05 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/controllers/upload.php on line 26
+[03-Mar-2014 05:46:30 Europe/London] PHP Fatal error:  Call to a member function qty() on a non-object in /home/privileg/public_html/prev/application/views/pay_process.php on line 24
+[06-Mar-2014 19:25:46 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:25:58 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:26:20 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:26:49 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:26:53 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:27:04 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:29:05 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:29:38 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:29:43 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:30:34 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:32:03 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:33:11 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:34:16 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:34:38 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:34:41 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:34:41 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:35:21 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[06-Mar-2014 19:35:24 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[07-Mar-2014 01:02:34 Europe/London] PHP Parse error:  syntax error, unexpected '$dats' (T_VARIABLE), expecting ')' in /home/privileg/public_html/prev/application/controllers/upload.php on line 28
+[07-Mar-2014 01:02:51 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/privileg/public_html/prev/application/controllers/upload.php on line 29
+[07-Mar-2014 01:10:48 Europe/London] PHP Fatal error:  Call to undefined function submit() in /home/privileg/public_html/prev/application/views/pay_confirm.php on line 25
+[07-Mar-2014 01:13:07 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[07-Mar-2014 01:13:28 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/verify_pay.php on line 24
+[07-Mar-2014 01:15:30 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:15:31 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:16:14 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:16:18 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:16:19 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:16:20 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:16:28 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 20
+[07-Mar-2014 01:45:54 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/models/pay.php on line 21
+[07-Mar-2014 01:47:52 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/models/pay.php on line 21
+[07-Mar-2014 02:04:04 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 16
+[07-Mar-2014 02:07:58 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 16
+[07-Mar-2014 02:08:08 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 16
+[07-Mar-2014 02:09:19 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:09:22 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:10:00 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:10:30 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:11:03 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:11:25 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:11:33 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/verifypay.php on line 26
+[07-Mar-2014 02:11:58 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:12:01 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 36
+[07-Mar-2014 02:12:21 Europe/London] PHP Fatal error:  Class 'Pay' not found in /home/privileg/public_html/prev/system/core/Loader.php on line 303
+[07-Mar-2014 14:16:51 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/controllers/deals.php on line 36
+[07-Mar-2014 14:16:54 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/controllers/deals.php on line 36
+[07-Mar-2014 14:17:25 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/controllers/deals.php on line 37
+[07-Mar-2014 14:17:40 Europe/London] PHP Fatal error:  Call to a member function load() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 27
+[07-Mar-2014 14:18:05 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:18:08 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:18:41 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:18:45 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:19:28 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:19:31 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:20:09 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:20:14 Europe/London] PHP Fatal error:  Call to a member function paidCheck() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 28
+[07-Mar-2014 14:20:34 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:20:37 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:21:24 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:21:44 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:21:46 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:21:48 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:21:51 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/maindb.php on line 38
+[07-Mar-2014 14:24:33 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/privileg/public_html/prev/application/controllers/deals.php on line 30
+[07-Mar-2014 14:24:54 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/privileg/public_html/prev/application/controllers/deals.php on line 31
+[07-Mar-2014 14:24:56 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/privileg/public_html/prev/application/controllers/deals.php on line 31
+[07-Mar-2014 14:25:00 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/privileg/public_html/prev/application/controllers/deals.php on line 31
+[07-Mar-2014 14:26:38 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/controllers/deals.php on line 30
+[07-Mar-2014 14:26:41 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/controllers/deals.php on line 30
+[07-Mar-2014 14:27:41 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/controllers/deals.php on line 30
+[07-Mar-2014 14:40:23 Europe/London] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/privileg/public_html/prev/application/models/pay.php on line 43
+[07-Mar-2014 14:43:17 Europe/London] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/privileg/public_html/prev/application/models/pay.php on line 43
+[07-Mar-2014 14:43:20 Europe/London] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/privileg/public_html/prev/application/models/pay.php on line 43
+[07-Mar-2014 14:43:22 Europe/London] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/privileg/public_html/prev/application/models/pay.php on line 43
+[07-Mar-2014 14:43:24 Europe/London] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/privileg/public_html/prev/application/models/pay.php on line 43
+[09-Mar-2014 01:05:10 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/home.php on line 69
+[09-Mar-2014 01:05:15 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/home.php on line 69
+[09-Mar-2014 01:06:45 Europe/London] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/privileg/public_html/prev/application/controllers/session.php on line 24
+[09-Mar-2014 01:06:45 Europe/London] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/privileg/public_html/prev/application/controllers/session.php on line 24
+[09-Mar-2014 01:07:10 Europe/London] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/privileg/public_html/prev/application/controllers/session.php on line 24
+[09-Mar-2014 01:11:42 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/home.php on line 20
+[14-Mar-2014 10:27:13 Europe/London] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/home.php on line 187
+[14-Mar-2014 10:27:20 Europe/London] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/home.php on line 187
+[15-Mar-2014 17:41:33 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/home.php on line 191
+[15-Mar-2014 17:42:28 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/home.php on line 191
+[15-Mar-2014 17:42:50 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/home.php on line 191
+[15-Mar-2014 17:44:01 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/home.php on line 191
+[15-Mar-2014 17:46:32 Europe/London] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/privileg/public_html/prev/application/views/home.php on line 197
+[15-Mar-2014 18:03:31 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/home.php on line 197
+[15-Mar-2014 18:08:56 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/deals.php on line 77
+[15-Mar-2014 18:09:38 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/deals.php on line 77
+[15-Mar-2014 18:09:41 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/deals.php on line 77
+[15-Mar-2014 18:09:43 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/deals.php on line 77
+[15-Mar-2014 18:10:30 Europe/London] PHP Fatal error:  Call to undefined method CI_Cart::content() in /home/privileg/public_html/prev/application/controllers/deals.php on line 45
+[15-Mar-2014 18:11:18 Europe/London] PHP Fatal error:  Call to undefined method CI_Cart::content() in /home/privileg/public_html/prev/application/controllers/deals.php on line 45
+[17-Mar-2014 21:11:31 Europe/London] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/privileg/public_html/prev/application/views/dcart.php on line 104
+[17-Mar-2014 21:14:45 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/views/dcart.php on line 81
+[22-Mar-2014 12:24:09 Europe/London] PHP Parse error:  syntax error, unexpected ']' in /home/privileg/public_html/prev/application/controllers/membership.php on line 19
+[22-Mar-2014 12:24:14 Europe/London] PHP Parse error:  syntax error, unexpected ']' in /home/privileg/public_html/prev/application/controllers/membership.php on line 19
+[22-Mar-2014 12:30:06 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/controllers/membership.php on line 20
+[27-Mar-2014 16:52:59 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/leadingPage.php on line 64
+[27-Mar-2014 16:53:13 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/leadingPage.php on line 64
+[01-Apr-2014 21:16:38 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:16:43 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:03 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:06 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:08 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:15 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:17 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:18 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:17:46 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:18:16 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:20:12 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:20:15 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:21:43 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:21:55 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:22:13 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:23:19 Europe/London] PHP Parse error:  syntax error, unexpected '$catname' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 7
+[01-Apr-2014 21:26:18 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 19
+[01-Apr-2014 21:26:21 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 19
+[01-Apr-2014 21:26:36 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/views/temp_sidebar.php on line 19
+[01-Apr-2014 21:48:21 Europe/London] PHP Fatal error:  Call to undefined method Home::get() in /home/privileg/public_html/prev/application/controllers/home.php on line 13
+[01-Apr-2014 21:49:29 Europe/London] PHP Fatal error:  Call to undefined method Home::get() in /home/privileg/public_html/prev/application/controllers/home.php on line 13
+[01-Apr-2014 21:51:03 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/home.php on line 13
+[01-Apr-2014 21:51:23 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/home.php on line 13
+[01-Apr-2014 21:51:30 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/home.php on line 13
+[01-Apr-2014 21:51:31 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/home.php on line 13
+[01-Apr-2014 21:52:02 Europe/London] PHP Fatal error:  Call to undefined method Home::get() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 21:52:13 Europe/London] PHP Fatal error:  Call to undefined method Home::get() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 21:59:39 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 21:59:42 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:00:02 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:00:35 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:04:43 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:15 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:16 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:18 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:21 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:24 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:26 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealsByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:51 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:55 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:05:58 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:08:51 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:08:53 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:09:34 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:09:38 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:10:02 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:10:05 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:10:07 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:10:09 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:10:11 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:10:16 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:11:03 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:11:05 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:11:08 Europe/London] PHP Fatal error:  Call to undefined method maindb::getAllDealByCat() in /home/privileg/public_html/prev/application/controllers/home.php on line 14
+[01-Apr-2014 22:12:33 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/home.php on line 18
+[01-Apr-2014 22:12:35 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/home.php on line 18
+[01-Apr-2014 22:12:38 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/home.php on line 18
+[01-Apr-2014 22:12:41 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/home.php on line 18
+[01-Apr-2014 22:12:55 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/home.php on line 18
+[01-Apr-2014 22:13:00 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/home.php on line 18
+[01-Apr-2014 22:25:26 Europe/London] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/privileg/public_html/prev/application/models/maindb.php on line 22
+[01-Apr-2014 22:25:30 Europe/London] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/privileg/public_html/prev/application/models/maindb.php on line 22
+[01-Apr-2014 22:51:27 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 36
+[01-Apr-2014 22:51:29 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 36
+[01-Apr-2014 22:51:33 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 36
+[03-Apr-2014 18:58:42 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/database/DB_active_rec.php on line 990
+[03-Apr-2014 18:59:09 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/system/database/DB_active_rec.php on line 990
+[03-Apr-2014 22:27:23 Europe/London] PHP Parse error:  syntax error, unexpected '?' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:27:26 Europe/London] PHP Parse error:  syntax error, unexpected '?' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:28:33 Europe/London] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:28:36 Europe/London] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:28:55 Europe/London] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:39:18 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 33
+[03-Apr-2014 22:39:20 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 33
+[03-Apr-2014 22:40:30 Europe/London] PHP Parse error:  syntax error, unexpected 'navbar' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:40:34 Europe/London] PHP Parse error:  syntax error, unexpected 'navbar' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:43:29 Europe/London] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 22:46:18 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[03-Apr-2014 22:46:21 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[03-Apr-2014 22:47:18 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 47
+[03-Apr-2014 22:58:41 Europe/London] PHP Parse error:  syntax error, unexpected 'dropdown' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 37
+[03-Apr-2014 23:02:14 Europe/London] PHP Parse error:  syntax error, unexpected 'navbar' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 23:02:16 Europe/London] PHP Parse error:  syntax error, unexpected 'navbar' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 23:02:31 Europe/London] PHP Parse error:  syntax error, unexpected 'navbar' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 36
+[03-Apr-2014 23:38:24 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:38:24 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:39:54 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:39:56 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:40:20 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:40:21 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:40:32 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:49:33 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:49:33 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:49:56 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[03-Apr-2014 23:49:59 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:29:29 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:29:52 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:30:20 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:30:22 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:30:39 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:33:16 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:35:00 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:35:08 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:35:59 Europe/London] PHP Fatal error:  Call to undefined function login() in /home/privileg/public_html/prev/application/controllers/facebook.php on line 9
+[04-Apr-2014 00:36:29 Europe/London] PHP Fatal error:  Call to undefined function login() in /home/privileg/public_html/prev/application/controllers/facebook.php on line 9
+[04-Apr-2014 00:37:12 Europe/London] PHP Fatal error:  Call to undefined function login() in /home/privileg/public_html/prev/application/controllers/facebook.php on line 9
+[04-Apr-2014 00:37:14 Europe/London] PHP Fatal error:  Call to undefined function login() in /home/privileg/public_html/prev/application/controllers/facebook.php on line 9
+[04-Apr-2014 00:37:17 Europe/London] PHP Fatal error:  Call to undefined function login() in /home/privileg/public_html/prev/application/controllers/facebook.php on line 9
+[04-Apr-2014 00:37:19 Europe/London] PHP Fatal error:  Call to undefined function login() in /home/privileg/public_html/prev/application/controllers/facebook.php on line 9
+[04-Apr-2014 00:37:36 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:42:51 Europe/London] PHP Fatal error:  require(): Failed opening required '../src/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 18
+[04-Apr-2014 00:44:40 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:44:43 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:46:08 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:46:44 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:47:01 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:50:08 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/privileg/public_html/prev/application/views/fblogin.php on line 24
+[04-Apr-2014 00:50:13 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:50:37 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:52:42 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:52:46 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:53:59 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:54:02 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:54:20 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:54:22 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:54:46 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:54:48 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:55:17 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 00:57:12 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 00:57:35 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 00:57:38 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 00:58:33 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 00:58:55 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'prev/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 00:58:58 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'prev/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 00:59:36 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'http://privilegedpk.com/prev/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:00:25 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'base_facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/facebook.php on line 18
+[04-Apr-2014 01:00:27 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'base_facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/facebook.php on line 18
+[04-Apr-2014 01:00:51 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'base_facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/facebook.php on line 18
+[04-Apr-2014 01:00:53 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'base_facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/facebook.php on line 18
+[04-Apr-2014 01:01:31 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'http://privilegedpk.com/prev/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:03:05 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'prev/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:03:18 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'prev/application/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:03:32 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/libraries/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:03:39 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:03:59 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:04:11 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'base_facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/facebook.php on line 18
+[04-Apr-2014 01:04:19 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/views/facebook.php on line 25
+[04-Apr-2014 01:04:22 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/views/facebook.php on line 25
+[04-Apr-2014 01:10:48 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'facebook.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/privileg/public_html/prev/application/views/fblogin.php on line 4
+[04-Apr-2014 01:14:12 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 01:15:03 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 01:15:04 Europe/London] PHP Fatal error:  Cannot redeclare class Facebook in /home/privileg/public_html/prev/application/libraries/facebook.php on line 25
+[04-Apr-2014 07:12:49 Europe/London] PHP Fatal error:  Call to undefined function link_tag() in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 2
+[04-Apr-2014 07:12:56 Europe/London] PHP Fatal error:  Call to undefined function link_tag() in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 2
+[04-Apr-2014 07:12:59 Europe/London] PHP Fatal error:  Call to undefined function link_tag() in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 2
+[08-Apr-2014 10:51:59 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 46
+[08-Apr-2014 10:52:02 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 46
+[08-Apr-2014 10:52:07 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 46
+[09-Apr-2014 02:07:22 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/cart.php on line 48
+[09-Apr-2014 02:07:25 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/cart.php on line 48
+[09-Apr-2014 02:07:59 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/controllers/cart.php on line 49
+[09-Apr-2014 02:08:32 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 113
+[09-Apr-2014 02:08:36 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 113
+[09-Apr-2014 02:08:39 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 113
+[09-Apr-2014 02:08:56 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 114
+[09-Apr-2014 02:08:59 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 114
+[09-Apr-2014 02:10:02 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 116
+[09-Apr-2014 02:10:07 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 116
+[09-Apr-2014 02:10:11 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 116
+[09-Apr-2014 02:10:34 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 122
+[09-Apr-2014 02:10:36 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 122
+[09-Apr-2014 02:10:38 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 122
+[09-Apr-2014 02:10:41 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 122
+[09-Apr-2014 02:11:07 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 116
+[09-Apr-2014 02:11:08 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 116
+[09-Apr-2014 02:11:34 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 116
+[09-Apr-2014 02:12:33 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:12:35 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:12:59 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:16:01 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:16:04 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:16:17 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:16:20 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:17:13 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 115
+[09-Apr-2014 02:18:07 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 112
+[09-Apr-2014 02:18:10 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 112
+[09-Apr-2014 02:18:27 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 112
+[09-Apr-2014 02:18:37 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 112
+[09-Apr-2014 02:19:21 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 112
+[09-Apr-2014 02:19:23 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 112
+[09-Apr-2014 02:19:56 Europe/London] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/privileg/public_html/prev/application/controllers/cart.php on line 39
+[09-Apr-2014 02:20:01 Europe/London] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/privileg/public_html/prev/application/controllers/cart.php on line 39
+[09-Apr-2014 02:47:07 Europe/London] PHP Fatal error:  Call to undefined method Pay::memStatus() in /home/privileg/public_html/prev/application/controllers/cart.php on line 39
+[09-Apr-2014 02:47:38 Europe/London] PHP Fatal error:  Call to undefined method Pay::memStatus() in /home/privileg/public_html/prev/application/controllers/cart.php on line 39
+[09-Apr-2014 02:49:05 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/models/pay.php on line 35
+[09-Apr-2014 02:49:07 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/models/pay.php on line 35
+[09-Apr-2014 02:53:27 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/mem_status.php on line 6
+[09-Apr-2014 02:53:28 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/mem_status.php on line 6
+[09-Apr-2014 02:53:31 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/mem_status.php on line 6
+[09-Apr-2014 12:19:58 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/controllers/cart.php on line 153
+[09-Apr-2014 12:19:59 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/controllers/cart.php on line 153
+[09-Apr-2014 12:20:01 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/controllers/cart.php on line 153
+[09-Apr-2014 12:20:04 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/controllers/cart.php on line 153
+[09-Apr-2014 12:20:22 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 152
+[09-Apr-2014 12:20:26 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/cart.php on line 152
+[10-Apr-2014 21:15:26 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 27
+[10-Apr-2014 21:15:26 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 36
+[10-Apr-2014 21:45:43 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/deals.php on line 60
+[10-Apr-2014 21:45:50 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/deals.php on line 60
+[10-Apr-2014 21:48:43 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 29
+[10-Apr-2014 21:49:28 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 29
+[10-Apr-2014 21:49:29 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 29
+[10-Apr-2014 21:49:32 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 29
+[10-Apr-2014 21:50:29 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 29
+[10-Apr-2014 21:50:40 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/pay.php on line 29
+[10-Apr-2014 22:04:10 Europe/London] PHP Fatal error:  Call to a member function checkMem() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 61
+[10-Apr-2014 22:04:20 Europe/London] PHP Fatal error:  Call to a member function checkMem() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 61
+[10-Apr-2014 22:07:07 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/controllers/cart.php on line 157
+[10-Apr-2014 23:00:13 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 65
+[10-Apr-2014 23:00:21 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 65
+[10-Apr-2014 23:00:24 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 65
+[10-Apr-2014 23:01:52 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 69
+[10-Apr-2014 23:02:17 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 69
+[10-Apr-2014 23:02:21 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 69
+[10-Apr-2014 23:02:48 Europe/London] PHP Fatal error:  Call to a member function row() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 69
+[10-Apr-2014 23:03:29 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 69
+[11-Apr-2014 00:32:37 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/maindb.php on line 65
+[11-Apr-2014 01:04:56 Europe/London] PHP Parse error:  syntax error, unexpected '"+"' (T_CONSTANT_ENCAPSED_STRING) in /home/privileg/public_html/prev/application/models/maindb.php on line 68
+[11-Apr-2014 01:33:58 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 95
+[11-Apr-2014 01:33:59 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 95
+[11-Apr-2014 01:37:33 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 95
+[11-Apr-2014 01:37:34 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 95
+[11-Apr-2014 01:37:39 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 95
+[11-Apr-2014 01:51:03 Europe/London] PHP Fatal error:  Call to undefined method maindb::searchById() in /home/privileg/public_html/prev/application/controllers/cart.php on line 108
+[11-Apr-2014 02:26:45 Europe/London] PHP Fatal error:  Call to a member function searchById() on a non-object in /home/privileg/public_html/prev/application/controllers/cart.php on line 94
+[11-Apr-2014 02:54:56 Europe/London] PHP Fatal error:  Unsupported operand types in /home/privileg/public_html/prev/application/models/pay.php on line 73
+[11-Apr-2014 02:54:58 Europe/London] PHP Fatal error:  Unsupported operand types in /home/privileg/public_html/prev/application/models/pay.php on line 73
+[11-Apr-2014 02:55:23 Europe/London] PHP Fatal error:  Unsupported operand types in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:00:38 Europe/London] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/privileg/public_html/prev/application/models/pay.php on line 77
+[11-Apr-2014 03:00:42 Europe/London] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/privileg/public_html/prev/application/models/pay.php on line 77
+[11-Apr-2014 03:03:26 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:03:34 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:03:37 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:04:46 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:04:48 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:05:17 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:05:36 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:07:55 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[11-Apr-2014 03:07:59 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/pay.php on line 74
+[12-Apr-2014 10:29:41 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/privileg/public_html/prev/application/controllers/deals.php on line 30
+[12-Apr-2014 10:30:09 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/privileg/public_html/prev/application/controllers/deals.php on line 30
+[12-Apr-2014 10:30:39 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:30:52 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:31:30 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:31:43 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:32:08 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:32:26 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:32:28 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:33:45 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:34:01 Europe/London] PHP Fatal error:  Cannot redeclare class Deals in /home/privileg/public_html/prev/application/models/deals.php on line 18
+[12-Apr-2014 10:43:13 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:43:27 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:49:31 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:49:35 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:50:06 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:50:37 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:50:42 Europe/London] PHP Fatal error:  Call to undefined function ret_deals() in /home/privileg/public_html/prev/application/models/purchased.php on line 26
+[12-Apr-2014 10:52:41 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 31
+[12-Apr-2014 10:53:03 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 31
+[12-Apr-2014 10:53:42 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 31
+[12-Apr-2014 10:53:55 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 31
+[12-Apr-2014 10:54:43 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 31
+[12-Apr-2014 10:55:33 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[12-Apr-2014 10:55:36 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[12-Apr-2014 10:55:49 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[12-Apr-2014 11:00:06 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 7
+[12-Apr-2014 11:01:58 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 3
+[12-Apr-2014 11:02:06 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 3
+[12-Apr-2014 20:19:29 Europe/London] PHP Fatal error:  Call to a member function view_deals() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 12
+[12-Apr-2014 20:20:38 Europe/London] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/privileg/public_html/prev/application/models/purchased.php on line 32
+[12-Apr-2014 20:29:20 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:29:24 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:29:43 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 5
+[12-Apr-2014 20:30:05 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 5
+[12-Apr-2014 20:30:41 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 5
+[12-Apr-2014 20:30:46 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 5
+[12-Apr-2014 20:31:32 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:31:57 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/models/purchased.php on line 32
+[12-Apr-2014 20:32:41 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[12-Apr-2014 20:34:37 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:34:41 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:37:31 Europe/London] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:37:57 Europe/London] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 20:52:49 Europe/London] PHP Fatal error:  Call to a member function getAllDeals() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 24
+[12-Apr-2014 21:07:23 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/temp_footer.php on line 119
+[12-Apr-2014 21:07:37 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/temp_footer.php on line 119
+[12-Apr-2014 21:07:46 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/temp_footer.php on line 119
+[12-Apr-2014 21:08:23 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/temp_footer.php on line 119
+[12-Apr-2014 22:18:56 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 43
+[12-Apr-2014 22:19:26 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 43
+[12-Apr-2014 22:19:46 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 43
+[12-Apr-2014 22:19:49 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 43
+[12-Apr-2014 22:20:03 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 43
+[12-Apr-2014 22:21:41 Europe/London] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 42
+[12-Apr-2014 22:21:47 Europe/London] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/privileg/public_html/prev/application/models/coup.php on line 42
+[12-Apr-2014 22:32:04 Europe/London] PHP Fatal error:  Call to undefined function rand_coup() in /home/privileg/public_html/prev/application/models/coup.php on line 15
+[12-Apr-2014 22:45:01 Europe/London] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/privileg/public_html/prev/application/models/coup.php on line 36
+[12-Apr-2014 22:58:04 Europe/London] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/privileg/public_html/prev/application/models/coup.php on line 20
+[12-Apr-2014 23:11:09 Europe/London] PHP Fatal error:  Unsupported operand types in /home/privileg/public_html/prev/application/models/purchased.php on line 35
+[12-Apr-2014 23:13:49 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:13:52 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:14:04 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:26:23 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:31:33 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 39
+[12-Apr-2014 23:33:59 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[12-Apr-2014 23:34:07 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[12-Apr-2014 23:34:35 Europe/London] PHP Parse error:  syntax error, unexpected '$deals' (T_VARIABLE) in /home/privileg/public_html/prev/application/models/purchased.php on line 35
+[12-Apr-2014 23:34:39 Europe/London] PHP Parse error:  syntax error, unexpected '$deals' (T_VARIABLE) in /home/privileg/public_html/prev/application/models/purchased.php on line 35
+[12-Apr-2014 23:43:10 Europe/London] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/privileg/public_html/prev/application/views/purchased.php on line 8
+[12-Apr-2014 23:44:27 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:44:58 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:45:07 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:47:51 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:47:57 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:48:08 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:48:58 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:49:03 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:49:08 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:49:25 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:49:27 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:49:34 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[12-Apr-2014 23:52:17 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 43
+[12-Apr-2014 23:52:37 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 43
+[12-Apr-2014 23:52:54 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 44
+[12-Apr-2014 23:53:14 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 44
+[12-Apr-2014 23:53:45 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[12-Apr-2014 23:54:04 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[12-Apr-2014 23:54:21 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 44
+[12-Apr-2014 23:54:41 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:55:08 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:55:11 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:56:52 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:57:07 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 41
+[12-Apr-2014 23:59:03 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[12-Apr-2014 23:59:12 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[12-Apr-2014 23:59:23 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[13-Apr-2014 00:02:43 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[13-Apr-2014 00:02:47 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[13-Apr-2014 00:03:13 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[13-Apr-2014 00:03:16 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[13-Apr-2014 00:03:36 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/purchased.php on line 13
+[13-Apr-2014 00:13:10 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 43
+[13-Apr-2014 00:13:28 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 43
+[13-Apr-2014 00:13:32 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/models/purchased.php on line 32
+[13-Apr-2014 00:13:37 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/models/purchased.php on line 32
+[13-Apr-2014 00:14:29 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:14:48 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:14:52 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:15:04 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:15:06 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:15:14 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:15:20 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:15:28 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:16:12 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:16:31 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:16:40 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:16:43 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:17:01 Europe/London] PHP Fatal error:  Call to undefined method Coup::ret_coup() in /home/privileg/public_html/prev/application/controllers/deals.php on line 14
+[13-Apr-2014 00:18:30 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 43
+[13-Apr-2014 00:18:34 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 43
+[17-Apr-2014 19:25:12 Europe/London] OAuthException: (#5) Unauthorized source IP address
+[17-Apr-2014 19:27:14 Europe/London] OAuthException: (#5) Unauthorized source IP address
+[17-Apr-2014 19:33:09 Europe/London] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/privileg/public_html/prev/application/controllers/fb.php on line 18
+[17-Apr-2014 19:34:10 Europe/London] PHP Fatal error:  Cannot access empty property in /home/privileg/public_html/prev/application/controllers/fb.php on line 18
+[17-Apr-2014 21:20:34 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:20:39 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:21:04 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:21:32 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:21:43 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:22:34 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:22:58 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:27:32 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:27:41 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 21:27:45 Europe/London] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/privileg/public_html/prev/application/controllers/deals.php on line 16
+[17-Apr-2014 23:28:40 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 30
+[17-Apr-2014 23:29:39 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 30
+[17-Apr-2014 23:30:29 Europe/London] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[17-Apr-2014 23:31:06 Europe/London] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[17-Apr-2014 23:31:37 Europe/London] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[18-Apr-2014 00:00:48 Europe/London] PHP Fatal error:  Uncaught OAuthException: (#5) Unauthorized source IP address
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[18-Apr-2014 00:01:01 Europe/London] PHP Fatal error:  Uncaught OAuthException: (#5) Unauthorized source IP address
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[18-Apr-2014 00:01:56 Europe/London] PHP Fatal error:  Uncaught OAuthException: (#5) Unauthorized source IP address
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[18-Apr-2014 00:03:05 Europe/London] PHP Fatal error:  Uncaught OAuthException: (#5) Unauthorized source IP address
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[18-Apr-2014 00:05:06 Europe/London] PHP Fatal error:  Uncaught OAuthException: (#5) Unauthorized source IP address
+  thrown in /home/privileg/public_html/prev/application/libraries/base_facebook.php on line 1325
+[18-Apr-2014 00:05:44 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 22
+[18-Apr-2014 00:07:15 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 22
+[18-Apr-2014 00:09:54 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 22
+[18-Apr-2014 00:10:03 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 22
+[18-Apr-2014 00:11:23 Europe/London] PHP Fatal error:  Call to protected method BaseFacebook::getUserFromAccessToken() from context 'Fb' in /home/privileg/public_html/prev/application/controllers/fb.php on line 22
+[18-Apr-2014 18:45:44 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[18-Apr-2014 18:46:24 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[18-Apr-2014 18:47:14 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[18-Apr-2014 21:03:19 Europe/London] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getUsers.php on line 6
+[18-Apr-2014 21:03:19 Europe/London] PHP Notice:  Undefined variable: output in /home/privileg/public_html/prev/getUsers.php on line 9
+[18-Apr-2014 21:03:20 Europe/London] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getUsers.php on line 6
+[18-Apr-2014 21:03:20 Europe/London] PHP Notice:  Undefined variable: output in /home/privileg/public_html/prev/getUsers.php on line 9
+[18-Apr-2014 21:03:28 Europe/London] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getUsers.php on line 6
+[18-Apr-2014 21:03:28 Europe/London] PHP Notice:  Undefined variable: output in /home/privileg/public_html/prev/getUsers.php on line 9
+[18-Apr-2014 21:08:11 Europe/London] PHP Fatal error:  Class 'DB_CONNECT' not found in /home/privileg/public_html/prev/getUsers.php on line 2
+[18-Apr-2014 21:08:18 Europe/London] PHP Fatal error:  Class 'DB_CONNECT' not found in /home/privileg/public_html/prev/getUsers.php on line 2
+[18-Apr-2014 21:09:14 Europe/London] PHP Fatal error:  Class 'DB_CONNECT' not found in /home/privileg/public_html/prev/getUsers.php on line 2
+[20-Apr-2014 22:33:32 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:33 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:37 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:38 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:41 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:42 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:45 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[20-Apr-2014 22:33:47 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 50
+[21-Apr-2014 00:15:05 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:05 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:06 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:25 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 11
+[21-Apr-2014 00:15:27 Europe/London] PHP Notice:  Undefined variable: row in /home/privileg/public_html/prev/getUsers.php on line 12
+[21-Apr-2014 00:15:52 Europe/London] PHP Fatal error:  Can't use function return value in write context in /home/privileg/public_html/prev/getUsers.php on line 9
+[21-Apr-2014 00:16:08 Europe/London] PHP Fatal error:  Can't use function return value in write context in /home/privileg/public_html/prev/getUsers.php on line 9
+[21-Apr-2014 00:16:43 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[21-Apr-2014 00:17:04 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[21-Apr-2014 00:17:07 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[21-Apr-2014 00:17:36 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[21-Apr-2014 00:17:38 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[21-Apr-2014 00:17:46 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[21-Apr-2014 00:17:48 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/getUsers.php on line 10
+[22-Apr-2014 21:42:15 Europe/London] PHP Notice:  Undefined index: desc in /home/privileg/public_html/prev/getDeals.php on line 13
+[22-Apr-2014 21:42:15 Europe/London] PHP Notice:  Undefined index: desc in /home/privileg/public_html/prev/getDeals.php on line 13
+[25-Apr-2014 22:32:51 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_brands_model.php on line 50
+[25-Apr-2014 22:33:06 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_brands_model.php on line 50
+[25-Apr-2014 22:33:09 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_brands_model.php on line 50
+[25-Apr-2014 22:33:11 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_brands_model.php on line 50
+[25-Apr-2014 22:33:13 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_brands_model.php on line 50
+[25-Apr-2014 22:34:28 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/admin/admin_brands_model.php on line 50
+[25-Apr-2014 23:08:52 Europe/London] PHP Fatal error:  Call to undefined method admin_user_model::delete_by_id() in /home/privileg/public_html/prev/application/controllers/admin/admin_brands.php on line 114
+[25-Apr-2014 23:08:57 Europe/London] PHP Fatal error:  Call to undefined method admin_user_model::delete_by_id() in /home/privileg/public_html/prev/application/controllers/admin/admin_brands.php on line 114
+[29-Apr-2014 08:27:07 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:27:31 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:27:33 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:27:34 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:27:35 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:27:47 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:35:29 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:35:49 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:42:48 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:42:51 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:46:08 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 6
+[29-Apr-2014 08:51:02 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/getPurDeals.php on line 7
+[29-Apr-2014 08:57:29 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 7
+[29-Apr-2014 08:58:57 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 7
+[29-Apr-2014 08:59:40 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 9
+[29-Apr-2014 09:00:18 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 9
+[29-Apr-2014 09:00:50 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 9
+[29-Apr-2014 09:01:29 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 9
+[29-Apr-2014 09:01:57 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 8
+[29-Apr-2014 09:05:57 Europe/London] PHP Warning:  json_encode() expects at least 1 parameter, 0 given in /home/privileg/public_html/prev/getPurDeals.php on line 9
+[29-Apr-2014 10:17:58 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:17:58 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_arary in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:17:58 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:19:03 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:19:03 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_arary in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:19:03 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:20:14 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:20:14 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_arary in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:20:14 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:21:31 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:21:31 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_arary in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:21:31 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:22:05 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:22:05 Europe/London] PHP Fatal error:  Call to undefined function array_pust() in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:22:59 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:23:00 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_array in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:23:00 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:27:44 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:27:44 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_array in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:27:45 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:28:35 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:28:35 Europe/London] PHP Notice:  Undefined variable: mysql_fetch_array in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:28:35 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/getPurDeals.php on line 18
+[29-Apr-2014 10:30:10 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:31:26 Europe/London] PHP Notice:  Undefined index: coupon_id in /home/privileg/public_html/prev/getPurDeals.php on line 17
+[29-Apr-2014 10:31:26 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 19
+[30-Apr-2014 21:49:08 Europe/London] PHP Parse error:  syntax error, unexpected '{' in /home/privileg/public_html/prev/application/views/purchased.php on line 62
+[30-Apr-2014 21:49:12 Europe/London] PHP Parse error:  syntax error, unexpected '{' in /home/privileg/public_html/prev/application/views/purchased.php on line 62
+[30-Apr-2014 21:50:10 Europe/London] PHP Parse error:  syntax error, unexpected '{' in /home/privileg/public_html/prev/application/views/purchased.php on line 62
+[01-May-2014 15:58:30 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 15:58:55 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 15:59:13 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 15:59:43 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 15:59:48 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:00:57 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:01:12 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:01:39 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:03:17 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING), expecting ')' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:05:48 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:05:54 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 51
+[01-May-2014 16:14:08 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[01-May-2014 16:14:17 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[01-May-2014 16:14:20 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[01-May-2014 16:14:25 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[01-May-2014 16:14:54 Europe/London] PHP Parse error:  syntax error, unexpected 'file_name' (T_STRING) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[01-May-2014 16:42:55 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 10
+[01-May-2014 16:44:35 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 10
+[01-May-2014 16:46:43 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 11
+[01-May-2014 16:46:53 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 11
+[01-May-2014 16:49:25 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 11
+[01-May-2014 16:49:50 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 11
+[01-May-2014 16:54:44 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 16:54:51 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 16:54:52 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 16:55:10 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 16:56:44 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 16:57:46 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 9
+[01-May-2014 16:58:04 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 9
+[01-May-2014 16:58:15 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 9
+[01-May-2014 17:01:16 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 9
+[01-May-2014 17:04:02 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 17:05:06 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/main_content.php on line 8
+[01-May-2014 17:14:36 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/main_content.php on line 9
+[01-May-2014 17:46:10 Europe/London] PHP Fatal error:  Call to a member function destory_session() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_user.php on line 129
+[07-May-2014 00:22:29 Europe/London] PHP Notice:  Undefined variable: temp in /home/privileg/public_html/prev/getPurDeals.php on line 21
+[07-May-2014 00:31:38 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:31:38 Europe/London] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:31:49 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:31:49 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:31:51 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:31:51 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:32:04 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:32:04 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:32:07 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:32:07 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:33:39 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:33:39 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:39:33 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:39:33 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:39:37 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:39:37 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:39:44 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:39:44 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:39:46 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:39:46 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:39:55 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:39:55 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:39:57 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:39:57 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:43:15 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:43:15 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 00:45:16 Europe/London] PHP Notice:  Undefined index: user in /home/privileg/public_html/prev/getPurDeals.php on line 3
+[07-May-2014 00:45:17 Europe/London] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/privileg/public_html/prev/getPurDeals.php on line 10
+[07-May-2014 01:07:14 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:07:31 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:07:43 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:07:47 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:01 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:03 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:12 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:14 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:29 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:33 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:43 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:08:52 Europe/London] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_row() in /home/privileg/public_html/prev/application/models/purchased.php on line 30
+[07-May-2014 01:09:48 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/purchased.php on line 31
+[07-May-2014 01:12:31 Europe/London] PHP Fatal error:  Call to undefined function ret_coup() in /home/privileg/public_html/prev/application/models/purchased.php on line 32
+[07-May-2014 01:13:26 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[07-May-2014 01:13:50 Europe/London] PHP Fatal error:  Call to a member function result() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 33
+[07-May-2014 01:19:58 Europe/London] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 36
+[07-May-2014 01:21:07 Europe/London] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[07-May-2014 01:21:31 Europe/London] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[07-May-2014 01:22:14 Europe/London] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[07-May-2014 01:22:17 Europe/London] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[07-May-2014 01:22:19 Europe/London] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/privileg/public_html/prev/application/models/purchased.php on line 34
+[26-Jun-2014 23:03:11 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:17 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:27 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:27 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:33 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:35 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:38 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:42 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:54 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:57 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:58 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:03:58 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[26-Jun-2014 23:05:24 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 43
+[27-Jun-2014 01:15:37 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 46
+[27-Jun-2014 01:15:46 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 46
+[27-Jun-2014 01:18:54 Europe/London] PHP Fatal error:  Cannot break/continue 1 level in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 45
+[27-Jun-2014 01:22:14 Europe/London] PHP Fatal error:  Cannot break/continue 1 level in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 45
+[27-Jun-2014 01:23:59 Europe/London] PHP Fatal error:  Cannot break/continue 1 level in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 45
+[27-Jun-2014 01:34:51 Europe/London] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 119
+[29-Jun-2014 07:07:44 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/admin/category_view_update.php on line 101
+[29-Jun-2014 07:07:48 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/privileg/public_html/prev/application/views/admin/category_view_update.php on line 101
+[29-Jun-2014 10:17:49 Europe/London] PHP Parse error:  syntax error, unexpected '"/></td>';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/admin/deal_input_view.php on line 181
+[29-Jun-2014 10:17:58 Europe/London] PHP Parse error:  syntax error, unexpected '"/></td>';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/admin/deal_input_view.php on line 181
+[29-Jun-2014 10:19:40 Europe/London] PHP Parse error:  syntax error, unexpected '"/></td>';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/admin/deal_input_view.php on line 181
+[29-Jun-2014 10:20:15 Europe/London] PHP Parse error:  syntax error, unexpected '"/></td>';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/admin/deal_input_view.php on line 181
+[29-Jun-2014 12:40:03 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 164
+[29-Jun-2014 12:40:47 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 164
+[29-Jun-2014 12:42:37 Europe/London] PHP Parse error:  syntax error, unexpected '.5' (T_DNUMBER) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 160
+[29-Jun-2014 12:43:37 Europe/London] PHP Parse error:  syntax error, unexpected '.5' (T_DNUMBER) in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 160
+[29-Jun-2014 12:48:12 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 165
+[29-Jun-2014 12:50:15 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 164
+[29-Jun-2014 12:51:48 Europe/London] PHP Parse error:  syntax error, unexpected '"' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 161
+[29-Jun-2014 12:56:35 Europe/London] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/privileg/public_html/prev/application/models/admin/admin_deal_model.php on line 159
+[29-Jun-2014 13:12:47 Europe/London] PHP Fatal error:  Call to a member function general() on a non-object in /home/privileg/public_html/prev/application/controllers/main.php on line 14
+[29-Jun-2014 13:17:12 Europe/London] PHP Fatal error:  Call to a member function updateDate() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_deal.php on line 29
+[29-Jun-2014 13:19:39 Europe/London] PHP Fatal error:  Call to a member function getall_by_brand() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_deal.php on line 30
+[29-Jun-2014 13:20:00 Europe/London] PHP Fatal error:  Call to a member function getall_by_brand() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_deal.php on line 30
+[30-Jun-2014 18:28:19 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 29
+[30-Jun-2014 18:28:24 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 29
+[03-Jul-2014 05:31:37 Europe/London] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING) in /home/privileg/public_html/prev/application/views/admin/user_view.php on line 132
+[03-Jul-2014 05:31:43 Europe/London] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING) in /home/privileg/public_html/prev/application/views/admin/user_view.php on line 132
+[03-Jul-2014 05:32:16 Europe/London] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING) in /home/privileg/public_html/prev/application/views/admin/user_view.php on line 132
+[03-Jul-2014 13:09:05 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 20
+[03-Jul-2014 13:13:19 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:24 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:25 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:41 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:43 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:46 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:54 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:13:58 Europe/London] PHP Fatal error:  Function name must be a string in /home/privileg/public_html/prev/application/controllers/deals.php on line 81
+[03-Jul-2014 13:18:17 Europe/London] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/privileg/public_html/prev/application/controllers/deals.php on line 84
+[03-Jul-2014 13:18:19 Europe/London] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/privileg/public_html/prev/application/controllers/deals.php on line 84
+[03-Jul-2014 13:18:21 Europe/London] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/privileg/public_html/prev/application/controllers/deals.php on line 84
+[03-Jul-2014 13:18:23 Europe/London] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/privileg/public_html/prev/application/controllers/deals.php on line 84
+[03-Jul-2014 18:09:11 Europe/London] PHP Fatal error:  Call to undefined function is_set() in /home/privileg/public_html/prev/application/views/temp_signin.php on line 18
+[03-Jul-2014 18:09:19 Europe/London] PHP Fatal error:  Call to undefined function is_set() in /home/privileg/public_html/prev/application/views/temp_signin.php on line 18
+[03-Jul-2014 18:09:48 Europe/London] PHP Fatal error:  Call to undefined function is_set() in /home/privileg/public_html/prev/application/views/temp_signin.php on line 18
+[03-Jul-2014 18:10:29 Europe/London] PHP Fatal error:  Call to undefined function is_set() in /home/privileg/public_html/prev/application/views/temp_signin.php on line 18
+[03-Jul-2014 18:11:28 Europe/London] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 18
+[03-Jul-2014 18:11:40 Europe/London] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 18
+[03-Jul-2014 19:54:06 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/temp_signin.php on line 9
+[03-Jul-2014 19:54:43 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/temp_signin.php on line 9
+[03-Jul-2014 20:51:18 Europe/London] PHP Parse error:  syntax error, unexpected '$desc' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/productdetails.php on line 9
+[03-Jul-2014 20:52:48 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/productdetails.php on line 10
+[03-Jul-2014 20:54:18 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/productdetails.php on line 11
+[03-Jul-2014 20:54:33 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/productdetails.php on line 11
+[03-Jul-2014 20:55:01 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/productdetails.php on line 11
+[03-Jul-2014 20:55:59 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/productdetails.php on line 11
+[03-Jul-2014 20:56:10 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/productdetails.php on line 11
+[03-Jul-2014 21:06:16 Europe/London] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/privileg/public_html/prev/application/views/productdetails.php on line 17
+[03-Jul-2014 21:53:16 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 10
+[03-Jul-2014 21:53:36 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 10
+[03-Jul-2014 21:53:45 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 10
+[03-Jul-2014 21:54:06 Europe/London] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/privileg/public_html/prev/application/views/temp_signin.php on line 4
+[03-Jul-2014 21:54:28 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 4
+[03-Jul-2014 22:29:32 Europe/London] PHP Parse error:  syntax error, unexpected 'fb' (T_STRING), expecting ',' or ';' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 46
+[03-Jul-2014 23:34:57 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:35:11 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:35:33 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:35:33 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:35:39 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:35:43 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:35:49 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_signin.php on line 12
+[03-Jul-2014 23:47:07 Europe/London] PHP Fatal error:  Call to undefined function total_segments() in /home/privileg/public_html/prev/application/views/temp_signin.php on line 16
+[03-Jul-2014 23:55:08 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/empty.php on line 8
+[03-Jul-2014 23:55:11 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/empty.php on line 8
+[03-Jul-2014 23:55:18 Europe/London] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/privileg/public_html/prev/application/views/empty.php on line 8
+[04-Jul-2014 00:05:54 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:06:08 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:06:32 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:06:35 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:06:42 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:06:45 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:06:53 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:07:06 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 50
+[04-Jul-2014 00:08:15 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:09:26 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:09:26 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:11:32 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:11:36 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:12:01 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:13:33 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 48
+[04-Jul-2014 00:15:41 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 47
+[04-Jul-2014 00:16:05 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 47
+[04-Jul-2014 00:16:18 Europe/London] PHP Fatal error:  Can't use method return value in write context in /home/privileg/public_html/prev/application/views/temp_navbar.php on line 47
+[04-Jul-2014 00:18:03 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:08 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:13 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:21 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:33 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:46 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:49 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:50 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:52 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:18:55 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:19:29 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:19:32 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 00:21:28 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 108
+[04-Jul-2014 01:00:25 Europe/London] PHP Fatal error:  Call to a member function decode() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_user.php on line 82
+[04-Jul-2014 01:02:31 Europe/London] PHP Fatal error:  Call to a member function decode() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_user.php on line 82
+[04-Jul-2014 01:02:39 Europe/London] PHP Fatal error:  Call to a member function decode() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_user.php on line 82
+[04-Jul-2014 09:23:42 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 36
+[04-Jul-2014 09:24:36 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 36
+[04-Jul-2014 09:25:32 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:25:38 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:26:24 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:28:07 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:30:13 Europe/London] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/privileg/public_html/prev/application/controllers/forget_pass.php on line 16
+[04-Jul-2014 09:31:24 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:31:58 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:32:39 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 09:32:47 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/privileg/public_html/prev/application/models/user_model.php on line 37
+[04-Jul-2014 12:25:51 Europe/London] PHP Fatal error:  Call to a member function post() on a non-object in /home/privileg/public_html/prev/application/controllers/brand/brand_deal.php on line 77
+[04-Jul-2014 12:27:43 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/controllers/home.php on line 29
+[04-Jul-2014 12:27:45 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/controllers/home.php on line 29
+[04-Jul-2014 12:34:01 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:34:07 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:34:51 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:35:22 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:35:39 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:36:04 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:36:13 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:36:28 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:36:48 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:00 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:05 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:12 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:17 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:19 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:47 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:37:50 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:38:04 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:38:28 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:39:16 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:39:45 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:39:50 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:39:55 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:40:25 Europe/London] PHP Fatal error:  Call to undefined function ret_brand() in /home/privileg/public_html/prev/application/models/maindb.php on line 32
+[04-Jul-2014 12:49:47 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:50:21 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:50:36 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:50:43 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:50:59 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:51:25 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:51:27 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:51:34 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:54:26 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:54:38 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:55:11 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:55:35 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:57:06 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:57:09 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:57:14 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:58:05 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:58:25 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:58:44 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:58:45 Europe/London] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home/privileg/public_html/prev/application/views/admin/header.php on line 18
+[04-Jul-2014 12:58:47 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:58:49 Europe/London] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home/privileg/public_html/prev/application/views/admin/header.php on line 18
+[04-Jul-2014 12:59:08 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 12:59:58 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 13:01:25 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/views/main_content.php on line 35
+[04-Jul-2014 13:13:45 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/privileg/public_html/prev/application/models/maindb.php on line 39
+[04-Jul-2014 13:14:37 Europe/London] PHP Fatal error:  Call to a member function general() on a non-object in /home/privileg/public_html/prev/application/controllers/brand/brand_category.php on line 30
+[04-Jul-2014 14:12:34 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/brand/brand_category.php on line 66
+[04-Jul-2014 14:12:44 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/brand/brand_category.php on line 66
+[04-Jul-2014 14:13:14 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/brand/brand_category.php on line 69
+[04-Jul-2014 14:13:20 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/brand/brand_category.php on line 69
+[04-Jul-2014 14:15:03 Europe/London] PHP Fatal error:  Call to a member function destory_session() on a non-object in /home/privileg/public_html/prev/application/controllers/brand/brand_deal.php on line 137
+[04-Jul-2014 14:15:31 Europe/London] PHP Fatal error:  Call to a member function destory_session() on a non-object in /home/privileg/public_html/prev/application/controllers/brand/brand_deal.php on line 137
+[04-Jul-2014 14:15:31 Europe/London] PHP Fatal error:  Call to a member function destory_session() on a non-object in /home/privileg/public_html/prev/application/controllers/brand/brand_deal.php on line 137
+[04-Jul-2014 14:19:18 Europe/London] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/privileg/public_html/prev/application/views/home_prod.php on line 90
+[04-Jul-2014 14:33:37 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 91
+[04-Jul-2014 14:33:41 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/models/admin/admin_user_model.php on line 91
+[05-Jul-2014 09:26:35 Europe/London] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/privileg/public_html/prev/application/controllers/signup.php on line 31
+[05-Jul-2014 09:51:04 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 13
+[05-Jul-2014 09:51:11 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 13
+[05-Jul-2014 09:51:15 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 13
+[05-Jul-2014 09:58:58 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/views/temp_singup.php on line 62
+[05-Jul-2014 09:59:10 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/views/temp_singup.php on line 62
+[05-Jul-2014 09:59:10 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/privileg/public_html/prev/application/views/temp_singup.php on line 62
+[05-Jul-2014 10:18:06 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:19:39 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:19:40 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:19:46 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:20:49 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:22:27 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:22:51 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:23:38 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:24:28 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 10:24:32 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/privileg/public_html/prev/application/views/temp_singup.php on line 24
+[05-Jul-2014 12:54:43 Europe/London] PHP Parse error:  syntax error, unexpected 'Membership' (T_STRING) in /home/privileg/public_html/prev/application/views/admin/header.php on line 103
+[05-Jul-2014 12:54:47 Europe/London] PHP Parse error:  syntax error, unexpected 'Membership' (T_STRING) in /home/privileg/public_html/prev/application/views/admin/header.php on line 103
+[05-Jul-2014 13:01:29 Europe/London] PHP Fatal error:  Call to a member function getall() on a non-object in /home/privileg/public_html/prev/application/controllers/admin/admin_user_approv.php on line 20
+[05-Jul-2014 13:36:39 Europe/London] PHP Fatal error:  Call to undefined method User_model::get_id() in /home/privileg/public_html/prev/application/controllers/forget_pass.php on line 16
+[05-Jul-2014 13:36:52 Europe/London] PHP Fatal error:  Call to undefined method User_model::get_id() in /home/privileg/public_html/prev/application/controllers/forget_pass.php on line 16
+[05-Jul-2014 13:46:56 Europe/London] PHP Fatal error:  Cannot redeclare User_model::user_update() in /home/privileg/public_html/prev/application/models/user_model.php on line 48
+[05-Jul-2014 13:47:01 Europe/London] PHP Fatal error:  Cannot redeclare User_model::user_update() in /home/privileg/public_html/prev/application/models/user_model.php on line 48
+[05-Jul-2014 14:33:18 Europe/London] PHP Fatal error:  Call to undefined method User_model::get_id() in /home/privileg/public_html/prev/application/controllers/forget_pass.php on line 16
+[05-Jul-2014 14:34:22 Europe/London] PHP Fatal error:  Call to undefined method User_model::get_id() in /home/privileg/public_html/prev/application/controllers/forget_pass.php on line 16
+[05-Jul-2014 14:34:29 Europe/London] PHP Fatal error:  Call to undefined method User_model::get_id() in /home/privileg/public_html/prev/application/controllers/forget_pass.php on line 16
+[05-Jul-2014 15:42:01 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 25
+[05-Jul-2014 15:43:03 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 25
+[05-Jul-2014 15:43:29 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 25
+[05-Jul-2014 15:43:44 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 25
+[05-Jul-2014 15:44:32 Europe/London] PHP Fatal error:  Call to undefined function heading() in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 10
+[05-Jul-2014 15:45:16 Europe/London] PHP Fatal error:  Call to undefined function heading() in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 10
+[05-Jul-2014 15:53:17 Europe/London] PHP Fatal error:  Call to undefined function heading() in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 10
+[05-Jul-2014 15:55:03 Europe/London] PHP Fatal error:  Call to undefined function heading() in /home/privileg/public_html/prev/application/views/admin/user_verify_view.php on line 10
+[05-Jul-2014 17:19:20 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/admin/admin_user_approv.php on line 101
+[05-Jul-2014 17:19:27 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/admin/admin_user_approv.php on line 101
+[05-Jul-2014 17:19:32 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/admin/admin_user_approv.php on line 101
+[05-Jul-2014 17:19:32 Europe/London] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/privileg/public_html/prev/application/controllers/admin/admin_user_approv.php on line 101
+[08-Jul-2014 21:24:46 Europe/London] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/privileg/public_html/prev/getDeals.php on line 21
+[08-Jul-2014 21:25:08 Europe/London] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/privileg/public_html/prev/getDeals.php on line 21
+[08-Jul-2014 21:26:33 Europe/London] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/privileg/public_html/prev/getDeals.php on line 21
+[08-Jul-2014 21:28:10 Europe/London] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/privileg/public_html/prev/getDeals.php on line 21

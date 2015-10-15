@@ -1,0 +1,245 @@
+body {
+	text-align : center;
+	background-color: #98A8CB;
+	min-width : 770px ;
+	}
+
+#wrapper {
+	width : 770px;
+	text-align : left ;
+	margin-left : auto ;
+	margin-right : auto ;
+	}
+	
+#header {
+	background-image: url(../images/header.png);
+	width: 770px;
+	height: 119px;
+	}
+
+#maincontainer {
+	float: left;
+	width : 770px;
+	background: url(../images/container.png) repeat-y;
+	}
+
+#padding {
+	clear: both;
+	padding: 30px 0 0 0;
+	}
+
+#content {
+	float: right;
+	width: 400px;
+	padding: 0 40px 10px 0;
+     font: large  Georgia, "Times New Roman", Times, serif;
+    
+}
+
+#newsbox {
+	float: left;
+	padding: 5px 0 0 0;
+	}
+	
+#innernews {
+	width: 225px;
+	margin: 0 0 0 40px;
+	padding: 10px 10px 10px 10px;
+	background: #D5E4F1;
+	border: 1px solid #B3C9D8;
+	}
+
+#nav {
+	float: left;
+	padding: 0 0 2px 13px;
+	margin: 0;
+	}
+	
+#navinner {
+	float: left;
+	width: 745px;
+	height: 41px;
+	margin-left: -1px;
+	background: #7590A3;
+	border-top: 2px solid #617A8C;
+	border-bottom: 2px solid #617A8C;
+	}
+	
+#nav ul {
+	margin: 0;
+	padding: 0 0 0 27px;
+	list-style: none;
+	
+	}
+	
+#nav li {
+	float: left;
+	margin: 0;
+	padding: 0 10px 0 0;
+	}
+	
+#nav li a {
+	float: left;
+	text-align: center;
+	margin: 5px 0 0 0;
+	padding: 4px 12px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #fff;
+	}
+	
+#nav li a:hover {
+	color: #FFFFFF;
+	background: #BBCFE0;
+	
+	}
+	
+#nav li a.active {
+	color: #FFFFFF;
+	background: #BBCFE0;
+	}
+	
+body {
+	font: small Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6em;
+	color: #444444;
+	}
+
+h1 {
+	padding-top: 10px;
+	font-size: 1.2em;
+	color:#422100
+	}
+
+h2 {
+	font-size: 1em;
+	font-style:italic;
+	color: #422100;
+	}
+
+#innernews p {
+	margin-left: 10px;
+	padding: 0 10px 0 10px;
+	border-left: 1px ridge #B3C9D8;
+	font-size: .8em;
+	line-height: 1.2em;
+	}
+
+a {
+	color: #5B71A5;
+	}
+
+a:visited {
+	color: #422100;
+	}
+
+a:hover {
+	color: #422100;
+	}
+
+#footer a {
+	color: #333333;
+	text-decoration: none;
+	}
+
+#footer a:visited {
+	color: #333333;
+	text-decoration: none;
+	}
+
+#footer a:hover {
+	color: #422100;
+	text-decoration: underline;
+	}
+
+#footer {
+    background-image: url(../images/footer.png);
+	text-align: center;
+	clear:both;
+	font-size: .8em;
+	color: #666666;
+	}
+.hoverTable{
+		width:100%; 
+		border-collapse:collapse; 
+	}
+	.hoverTable td{ 
+		padding:7px; border:#4e95f4 1px solid;
+	}
+	/* Define the default color for all the table rows */
+	.hoverTable tr{
+		background: #b8d1f3;
+	}
+	/* Define the hover highlight color for the table row */
+    .hoverTable tr:hover {
+          background-color: #ffff99;
+    }
+    .hoverTable th {
+        font: large Georgia, "Times New Roman", Times, serif;
+          background-color: #b8d1f3;
+    
+    }
+     .hoverTable th:hover {
+         font: large  Georgia, "Times New Roman", Times, serif;
+          background-color: #b8d1f3;
+    } 
+    
+    
+    
+    /*Popup page*/
+    .modalDialog {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+.modalDialog:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	background: -moz-linear-gradient(#fff, #999);
+	background: -webkit-linear-gradient(#fff, #999);
+	background: -o-linear-gradient(#fff, #999);
+}
+
+
+.close {
+	background: #606061;
+	color: #FFFFFF;
+	line-height: 25px;
+	position: absolute;
+	right: -12px;
+	text-align: center;
+	top: -10px;
+	width: 24px;
+	text-decoration: none;
+	font-weight: bold;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+	-moz-box-shadow: 1px 1px 3px #000;
+	-webkit-box-shadow: 1px 1px 3px #000;
+	box-shadow: 1px 1px 3px #000;
+}
+
+.close:hover { background: #00d9ff; }
+        
+        

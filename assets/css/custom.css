@@ -1,0 +1,258 @@
+
+
+.navbar
+{
+border: 1px solid transparent;
+}
+
+
+.navbar .navbar-inner 
+{
+background-image: none !important;
+background-color: #414041 !important;
+border-color: #252525;
+}
+
+.navbar-inverse .navbar-inner .navbar-nav .active
+{
+color: #fff;
+background-color: #111;
+}
+
+
+.navbar-inverse .navbar-inner ul
+{
+    padding-left: 120px;
+}
+
+
+.span12 logospan visiable-desktop
+{
+height: 139px !important;
+}
+
+
+.span12 a
+{
+
+}
+
+.span12 img
+{
+height: 80px;
+width: 240px;
+}
+
+.span9
+{
+    background-color: #f5f5f5;
+    position: fixed;
+    height: 400px;
+    top:150px;
+    right:250px;
+    border-radius: 5px; 
+    border: 1px solid transparent;
+    border-color: #989898;
+}
+
+legend
+{
+    font-family: Forte;
+    font-size:20px;
+    color: #3300CC !important;
+}
+
+
+.span9 p
+{
+   position: relative;
+   left: 30px;
+   font-size:14px;
+   font-style: italic;
+   font-weight: bold;
+}
+
+.span9 .image
+{
+    position: fixed;
+    width: 460px;
+    height: 240px;
+    top:230px;
+    left:630px;
+    border: 3px solid transparent; 
+    border-color: #FF9933;
+}
+
+.span9 .image img
+{
+    width: 460px !important;
+    height: 240px !important;
+}
+
+.control-group
+{
+    position: fixed;
+    top:330px;
+    left:260px;
+}
+
+.makevertical
+{
+    position: fixed;
+    top:390px;
+    left:430px;
+}
+
+.btn-circle
+{
+    border-radius: 20px !important;
+}
+
+.makehorizantal
+{
+    position: fixed;
+    top:330px;
+    left:560px;
+}
+
+
+#email
+{
+   height:30px !important; 
+}
+
+.icon-lock
+{
+    position: relative;
+   top:5px;
+    background: url("images/glyphicons-halflings.png") no-repeat -72px -4px !important;
+}
+
+.header
+{
+background: #F15B2A;
+background-image: initial;
+background-position-x: initial;
+background-position-y: initial;
+background-size: initial;
+background-repeat-x: initial;
+background-repeat-y: initial;
+background-attachment: initial;
+background-origin: initial;
+background-clip: initial;
+background-color: rgb(241, 91, 42);
+height: 36px;
+color: white;
+font-size: 18px;
+line-height: 36px;
+padding: 0px 10px;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+}
+
+
+.header span
+{
+width: 30px;
+height: 30px;
+float: left;
+margin-top: 3px;
+margin-right: 5px;
+background: url("images/deal-sprite.png") no-repeat -346px -4px;
+}
+
+.span4
+{
+ margin-right: 50px;
+ height: 350px;
+ margin-bottom: 51px;
+ border-top-left-radius: 5px;
+ border-top-right-radius: 5px;
+ 
+}
+
+.image
+{
+position: relative;
+width: 100%;
+}
+
+
+img
+{
+width: 370px; 
+height: 220px; 
+display: inline;
+}
+
+.boxfooter{
+box-shadow: 2px 4px 6px rgba(0,0,0,.1);
+height: 90px;
+background-image: initial;
+background-position-x: initial;
+background-position-y: initial;
+background-size: initial;
+background-repeat-x: initial;
+background-repeat-y: initial;
+background-attachment: initial;
+background-origin: initial;
+background-clip: initial;
+background-color: #F5F5F5;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px; 
+}
+
+a
+{
+text-decoration: none !important;
+}
+
+.boxfooter a
+{
+text-decoration: none !important; 
+color: black !important;
+}
+
+.dealheading 
+{
+color: black;
+padding: 15px;
+display: block;
+font-size: 20px;
+}
+
+
+.dealtime
+{
+padding-left: 15px;
+font-size: 14px;
+float: left;
+line-height: 24px;
+padding-bottom: 15px;
+}
+
+.dealtime span
+{
+float: left;
+width: 24px;
+height: 25px;
+margin-right: 3px;
+background: url("images/dt-sprite.png") no-repeat -94px -181px;
+}
+
+
+.dealprice
+{
+float: right;
+padding-right: 15px;
+}
+
+.dealprice span
+{
+color: #BE202E;
+font-weight: bold;
+font-size: 25px;
+vertical-align: middle;
+margin-right: 15px;
+}
+
